@@ -13,8 +13,8 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
  <br> 
 
 ## 📁 Estrutura/
-- [DesafioIphone]() / Pasta com projeto
-- [diagramaIphone.drawio]() / Diagrama de Classes.
+- [DesafioIphone](https://github.com/RobertadeOliveira/DesafioIphone-main/tree/main/DesafioIphone) / Pasta com projeto
+- [diagramaIphone.drawio](https://github.com/RobertadeOliveira/DesafioIphone-main/blob/main/DiagramaIphone.drawio) / Diagrama de Classes.
 - ```README.md```  Informações do projeto.  
 ## 📍 Instruções 
 
